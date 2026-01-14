@@ -1,4 +1,15 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
+
+@font-face {
+  font-family: Roboto;
+  src: url("../dist/assets/Fonts/RobotoMono-Regular.ttf");
+}
+
+@theme {
+  --font-sans: "Roboto", sans-serif; 
+  --font-doto: "Doto", sans-serif;
+}
 
 @layer components {
   .input {
