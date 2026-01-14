@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: Roboto;
-  src: url("../dist/assets/Fonts/RobotoMono-Regular.ttf");
+  src: url("./assets/Fonts/RobotoMono-Regular.ttf");
 }
 
 @theme {
